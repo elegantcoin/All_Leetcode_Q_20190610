@@ -1,7 +1,7 @@
 # All_Leetcode_Q_20190610
 
 <p align="center">
-    <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/elegantcoin/All_Leetcode_Q_20190610"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
     <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers"><img src="https://img.shields.io/badge/platform-Windows%7CLinux%7CmacOS-660066.svg"></a>
     <a href="https://opensource.org/licenses/mit-license.php"><img src="https://badges.frapsoft.com/os/mit/mit.svg"></a>
@@ -13,7 +13,8 @@
 
 #|	标题|	Link|	Difficulty|	Solution|	Acceptance|	 接受| 	 提交| 	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
-1|	两数之和    |	https://leetcode.com/problems/two-sum|	简单|	https://leetcode.com/articles/two-sum|	0.442|	1839799|	4160810|	10890|	368
+1|	两数之和    |	https://leetcode.com/problems/two-sum|	简单|	https://leetcode.com/articles/two-sum|	0.442|	1839799|	4160810|	10
+|	368
 2|	两数相加    |	https://leetcode.com/problems/add-two-numbers|	中等|	https://leetcode.com/articles/add-two-numbers|	0.312|	889091|	2851363|	5252|	1353
 3|	无重复字符的最长子串    |	https://leetcode.com/problems/longest-substring-without-repeating-characters|	中等|	https://leetcode.com/articles/longest-substring-without-repeating-characters|	0.284|	944953|	3324704|	5604|	313
 4|	寻找两个有序数组的中位数    |	https://leetcode.com/problems/median-of-two-sorted-arrays|	难|	https://leetcode.com/articles/median-of-two-sorted-arrays|	0.264|	442060|	1671600|	4362|	590
