@@ -20,6 +20,9 @@
 5|赛码|https://www.acmcoder.com/index|京东、美团
 6|amcatglobal|https://amcatglobal.aspiringminds.com/|亚马逊
 
+供参考的一些时间表：
+![](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/111.png)
+
 #|	标题|	难度|	Acceptance|	频率|	English Link|	接受|	提交|	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
 1|	两数之和    |	简单|	0.44|	2.09|	https://leetcode.com/problems/two-sum|	1839799|	4160810|	10890|	368
