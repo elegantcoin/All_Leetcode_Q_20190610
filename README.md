@@ -11,6 +11,15 @@
 </p>
 <br />
 
+#|国内外目前OJ(Online Judge)平台| 链接|公司采用(待完善)
+------|------|------|------
+1|Leetcode|https://leetcode-cn.com/   https://leetcode.com/|FLAG?
+2|hackerrank|https://www.hackerrank.com/dashboard|BCG、Akuna
+3|Lintcode|https://www.lintcode.com/|?
+4|牛客|https://www.nowcoder.com|拼多多、大疆、网易、腾讯
+5|赛码|https://www.acmcoder.com/index|京东、美团
+6|amcatglobal|https://amcatglobal.aspiringminds.com/|亚马逊
+
 #|	标题|	难度|	Acceptance|	频率|	English Link|	接受|	提交|	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
 1|	两数之和    |	简单|	0.44|	2.09|	https://leetcode.com/problems/two-sum|	1839799|	4160810|	10890|	368
