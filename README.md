@@ -14,7 +14,7 @@
 ##
 #|国内外目前OJ(Online Judge)平台| 链接|公司采用(待完善)
 ------|------|------|------
-1|Leetcode|https://leetcode-cn.com/   https://leetcode.com/|FLAG?
+1|Leetcode|https://leetcode-cn.com/   https://leetcode.com/|只刷题?
 2|hackerrank|https://www.hackerrank.com/dashboard|BCG、Akuna
 3|Lintcode|https://www.lintcode.com/|?
 4|牛客|https://www.nowcoder.com|拼多多、大疆、网易、腾讯
