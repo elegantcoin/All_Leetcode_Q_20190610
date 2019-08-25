@@ -21,7 +21,7 @@
 5|赛码|https://www.acmcoder.com/index|京东、美团
 6|amcatglobal|https://amcatglobal.aspiringminds.com/|亚马逊
 
-## 供参考[**的一些时间表（点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
+## 供参考的[**一些时间表（点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
 
 ![](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/111.png)
 
