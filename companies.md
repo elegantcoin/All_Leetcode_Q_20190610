@@ -1,4 +1,4 @@
-# All companies list:
+# :fire: All companies list:
 <p align="center">
     <a href="https://github.com/elegantcoin/All_Leetcode_Q_20190610"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
