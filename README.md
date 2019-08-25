@@ -11,7 +11,7 @@
 </p>
 <br />
 
-## 1. Online Judge
+## 1. Online Judge :fire:
 #|国内外目前OJ(Online Judge)平台| 链接|公司采用(待完善)
 ------|------|------|------
 1|Leetcode|https://leetcode-cn.com/   https://leetcode.com/|只刷题?
@@ -25,10 +25,10 @@
 
 ![](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/111.png)
 
-## 3. All_Leetcode_Companies [**（点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/companies.md)
+## 3. All_Leetcode_Companies [**（点击查看完整列表:fire:）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/companies.md)
 
 
-## 4. All_Leetcode_Questions
+## 4. All_Leetcode_Questions :fire:
 #|	标题|	难度|	Acceptance|	频率|	English Link|	接受|	提交|	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
 1|	两数之和    |	简单|	0.44|	2.09|	https://leetcode.com/problems/two-sum|	1839799|	4160810|	10890|	368
