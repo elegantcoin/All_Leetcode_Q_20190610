@@ -1160,7 +1160,31 @@
 1137|	第 N 个泰波那契数    新|	简单|	0.57|	0|	https://leetcode.com/problems/n-th-tribonacci-number|				
 1138|	字母板上的路径    新|	中等|	0.28|	0|	https://leetcode.com/problems/alphabet-board-path|				
 1139|	最大的以 1 为边界的正方形    新|	中等|	0.32|	0|	https://leetcode.com/problems/largest-1-bordered-square|				
-1140|	石子游戏 II    新|	中等|	0.45|	0|	https://leetcode.com/problems/stone-game-ii|				
+1140|	石子游戏 II    新|	中等|	0.45|	0|	https://leetcode.com/problems/stone-game-ii|				
+1144|	递减元素使数组呈锯齿状    |	中等|	0.34|	0|	https://leetcode.com/problems/decrease-elements-to-make-array-zigzag|
+1145|	二叉树着色游戏    |	中等|	0.30|	0|	https://leetcode.com/problems/binary-tree-coloring-game|
+1146|	快照数组    |	中等|	0.23|	0|	https://leetcode.com/problems/snapshot-array|
+1147|	段式回文    |	困难|	0.49|	0|	https://leetcode.com/problems/longest-chunked-palindrome-decomposition|
+1150|	检查一个数是否在数组中占绝大多数    |	简单|	0.65|	0|	https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array|
+1151|	最少交换次数来组合所有的 1    |	中等|	0.33|	0|	https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together|
+1152|	用户网站访问行为分析    |	中等|	0.26|	0|	https://leetcode.com/problems/analyze-user-website-visit-pattern|
+1153|	字符串转化    |	困难|	0.21|	0|	https://leetcode.com/problems/string-transforms-into-another-string|
+1154|	一年中的第几天    |	简单|	0.48|	0|	https://leetcode.com/problems/ordinal-number-of-date|
+1155|	掷骰子的N种方法    |	中等|	0.41|	0|	https://leetcode.com/problems/number-of-dice-rolls-with-target-sum|
+1156|	单字符重复子串的最大长度    |	中等|	0.41|	0|	https://leetcode.com/problems/swap-for-maximum-repeated-substring|
+1157|	子数组中占绝大多数的元素    |	困难|	0.22|	0|	https://leetcode.com/problems/online-majority-element-in-subarray|
+1160|	拼写单词    |	简单|	0.61|	0|	https://leetcode.com/problems/find-words-that-can-be-formed-by-characters|
+1161|	最大层内元素和    |	中等|	0.62|	0|	https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree|
+1162|	地图分析    |	中等|	0.29|	0|	https://leetcode.com/problems/as-far-from-land-as-possible|
+1163|	按字典序排在最后的子串    |	困难|	0.22|	0|	https://leetcode.com/problems/last-substring-in-lexicographical-order|
+1165|	单行键盘    |	简单|	0.85|	0|	https://leetcode.com/problems/single-row-keyboard|
+1166|	设计文件系统    |	中等|	0.49|	0|	https://leetcode.com/problems/design-file-system|
+1167|	连接棒材的最低费用    |	中等|	0.29|	0|	https://leetcode.com/problems/minimum-cost-to-connect-sticks|
+1168|	水资源分配优化    |	困难|	0.33|	0|	https://leetcode.com/problems/optimize-water-distribution-in-a-village|
+1169|	查询无效交易    |	简单|	0.19|	0|	https://leetcode.com/problems/invalid-transactions|
+1170|	比较字符串最小字母出现频次    |	简单|	0.55|	0|	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character|
+1171|	从链表中删去总和值为零的连续节点    |	中等|	0.32|	0|	https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list|
+1172|	餐盘栈    |	困难|	0.20|	0|	https://leetcode.com/problems/dinner-plate-stacks|
 
 
 ## Announcement
