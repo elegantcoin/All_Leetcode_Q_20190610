@@ -21,14 +21,14 @@
 5|赛码|https://www.acmcoder.com/index|京东、美团
 6|amcatglobal|https://amcatglobal.aspiringminds.com/|亚马逊
 
-## :fire: 2. 供参考的[**一些时间表（点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
+## :fire: 2. 供参考的[**一些时间表（:link:点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
 
 ![](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/111.png)
 
-## :fire: 3. All_Leetcode_Companies [**（点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/companies.md)
+## :fire: 3. All_Leetcode_Companies [**（:link:点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/companies.md)
 
 
-## :fire: 4. All_Leetcode_Questions   :point_right:([点击参看 All solutions @strengthen ](https://github.com/strengthen/LeetCode))
+## :fire: 4. All_Leetcode_Questions ([:link:点击参看 All solutions @strengthen ](https://github.com/strengthen/LeetCode))
 
 #|	标题|	难度|	Acceptance|	频率|	English Link|	接受|	提交|	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
