@@ -29,6 +29,8 @@
 
 
 ## :fire: 4. All_Leetcode_Questions
+### [点击参看 All solutions @strengthen ](https://github.com/strengthen/LeetCode)
+
 #|	标题|	难度|	Acceptance|	频率|	English Link|	接受|	提交|	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
 1|	两数之和    |	简单|	0.44|	2.09|	https://leetcode.com/problems/two-sum|	1839799|	4160810|	10890|	368
