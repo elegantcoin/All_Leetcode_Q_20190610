@@ -1,5 +1,7 @@
 # :fire: Campus Recruitment Timeline(testing round)
 
+[:link:点击下载:no_mouth:](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.xlsx)
+
 时间|公司(待完善)|小时
 ------------|------------|------------
 2019/7/28|	字节跳动|	10:00\|字节跳动
