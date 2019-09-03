@@ -28,7 +28,7 @@
 ## :fire: 3. All_Leetcode_Companies [**（:link:点击查看完整列表）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/companies.md)
 
 
-## :fire: 4. ALL_Solutions :link:点击查看:[@LiYu Lu](https://github.com/luliyucoordinate/Leetcode/tree/master/src)/[@GGarvit Bansal](https://github.com/Garvit244/Leetcode)
+## :fire: 4. ALL_Solutions 点击查看: :link:[@LiYu Lu](https://github.com/luliyucoordinate/Leetcode/tree/master/src) / [@GGarvit Bansal](https://github.com/Garvit244/Leetcode)
 
 ## :fire: 5. All_Leetcode_Questions
 
