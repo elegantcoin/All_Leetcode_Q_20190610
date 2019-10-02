@@ -30,7 +30,7 @@
 
 ## :fire: 4. ALL_Solutions 点击查看: :link:[@LiYu Lu](https://github.com/luliyucoordinate/Leetcode/tree/master/src) / [@GGarvit Bansal](https://github.com/Garvit244/Leetcode)
 
-## :fire: 5. All_Leetcode_Questions
+## :fire: 5. All_Leetcode_Questions(推荐Chrome扩展程序：Open Multiple URLs -可批量打开URLs,记得勾选Don't load tabs...)
 
 #|	标题|	难度|	Acceptance|	频率|	English Link|	接受|	提交|	赞|	踩
 ------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------|	------------
