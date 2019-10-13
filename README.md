@@ -1238,11 +1238,6 @@ ps：(推荐Chrome扩展程序：Open Multiple URLs -可批量打开URLs,记得�
 1218|	最长定差子序列    |	0.301|	中等|	0|	https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference|
 1219|	黄金矿工    |	0.598|	中等|	0|	https://leetcode.com/problems/path-with-maximum-gold|
 1220|	统计元音字母序列的数目    |	0.532|	困难|	0|	https://leetcode.com/problems/count-vowels-permutation|
-LCP 1|	猜数字    |	0.836|	简单|	0|	https://leetcode.com/problems/guess-numbers|
-LCP 2|	分式化简    |	0.491|	简单|	0|	https://leetcode.com/problems/deep-dark-fraction|
-LCP 3|	机器人大冒险    |	0.138|	中等|	0|	https://leetcode.com/problems/programmable-robot|
-LCP 4|	覆盖    |	0.213|	困难|	0|	https://leetcode.com/problems/broken-board-dominoes|
-LCP 5|	发 LeetCoin    |	0.211|	困难|	0|	https://leetcode.com/problems/coin-bonus|
 
 
 ## Announcement
