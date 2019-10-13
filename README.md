@@ -1190,54 +1190,54 @@ ps：(推荐Chrome扩展程序：Open Multiple URLs -可批量打开URLs,记得�
 1170|	比较字符串最小字母出现频次    |	简单|	0.55|	0|	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character|
 1171|	从链表中删去总和值为零的连续节点    |	中等|	0.32|	0|	https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list|
 1172|	餐盘栈    |	困难|	0.20|	0|	https://leetcode.com/problems/dinner-plate-stacks|
-1173|	Immediate Food Delivery I    |	简单|	0.645|	0|	https://leetcode.com/problems/immediate-food-delivery-i|
-1174|	Immediate Food Delivery II    |	中等|	0.235|	0|	https://leetcode.com/problems/immediate-food-delivery-ii|
-1175|	质数排列    |	简单|	0.445|	0|	https://leetcode.com/problems/prime-arrangements|
-1176|	健身计划评估    |	简单|	0.378|	0|	https://leetcode.com/problems/diet-plan-performance|
-1177|	构建回文串检测    |	中等|	0.189|	0|	https://leetcode.com/problems/can-make-palindrome-from-substring|
-1178|	猜字谜    |	困难|	0.229|	0|	https://leetcode.com/problems/number-of-valid-words-for-each-puzzle|
-1179|	重新格式化部门表    |	简单|	0.616|	0|	https://leetcode.com/problems/reformat-department-table|
-1180|	统计只含单一字母的子串    |	简单|	0.706|	0|	https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter|
-1181|	前后拼接    |	中等|	0.327|	0|	https://leetcode.com/problems/before-and-after-puzzle|
-1182|	与目标颜色间的最短距离    |	中等|	0.239|	0|	https://leetcode.com/problems/shortest-distance-to-target-color|
-1183|	矩阵中 1 的最大数量    |	困难|	0.349|	0|	https://leetcode.com/problems/maximum-number-of-ones|
-1184|	公交站间的距离    |	简单|	0.542|	0|	https://leetcode.com/problems/distance-between-bus-stops|
-1185|	一周中的第几天    |	简单|	0.568|	0|	https://leetcode.com/problems/day-of-the-week|
-1186|	删除一次得到子数组最大和    |	中等|	0.234|	0|	https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion|
-1187|	使数组严格递增    |	困难|	0.331|	0|	https://leetcode.com/problems/make-array-strictly-increasing|
+1173|	Immediate Food Delivery I    |	简单|	0.64|	0|	https://leetcode.com/problems/immediate-food-delivery-i|
+1174|	Immediate Food Delivery II    |	中等|	0.23|	0|	https://leetcode.com/problems/immediate-food-delivery-ii|
+1175|	质数排列    |	简单|	0.44|	0|	https://leetcode.com/problems/prime-arrangements|
+1176|	健身计划评估    |	简单|	0.37|	0|	https://leetcode.com/problems/diet-plan-performance|
+1177|	构建回文串检测    |	中等|	0.18|	0|	https://leetcode.com/problems/can-make-palindrome-from-substring|
+1178|	猜字谜    |	困难|	0.22|	0|	https://leetcode.com/problems/number-of-valid-words-for-each-puzzle|
+1179|	重新格式化部门表    |	简单|	0.61|	0|	https://leetcode.com/problems/reformat-department-table|
+1180|	统计只含单一字母的子串    |	简单|	0.70|	0|	https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter|
+1181|	前后拼接    |	中等|	0.32|	0|	https://leetcode.com/problems/before-and-after-puzzle|
+1182|	与目标颜色间的最短距离    |	中等|	0.23|	0|	https://leetcode.com/problems/shortest-distance-to-target-color|
+1183|	矩阵中 1 的最大数量    |	困难|	0.34|	0|	https://leetcode.com/problems/maximum-number-of-ones|
+1184|	公交站间的距离    |	简单|	0.54|	0|	https://leetcode.com/problems/distance-between-bus-stops|
+1185|	一周中的第几天    |	简单|	0.56|	0|	https://leetcode.com/problems/day-of-the-week|
+1186|	删除一次得到子数组最大和    |	中等|	0.23|	0|	https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion|
+1187|	使数组严格递增    |	困难|	0.33|	0|	https://leetcode.com/problems/make-array-strictly-increasing|
 1188|	Design Bounded Blocking Queue    |	中等|	1|	0|	https://leetcode.com/problems/design-bounded-blocking-queue|
-1189|	“气球” 的最大数量    |	简单|	0.613|	0|	https://leetcode.com/problems/maximum-number-of-balloons|
-1190|	反转每对括号间的子串    |	中等|	0.451|	0|	https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses|
-1191|	K 次串联后最大子数组之和    |	中等|	0.219|	0|	https://leetcode.com/problems/k-concatenation-maximum-sum|
+1189|	“气球” 的最大数量    |	简单|	0.61|	0|	https://leetcode.com/problems/maximum-number-of-balloons|
+1190|	反转每对括号间的子串    |	中等|	0.45|	0|	https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses|
+1191|	K 次串联后最大子数组之和    |	中等|	0.21|	0|	https://leetcode.com/problems/k-concatenation-maximum-sum|
 1192|	查找集群内的「关键连接」    |	困难|	0.28|	0|	https://leetcode.com/problems/critical-connections-in-a-network|
-1193|	每月交易 I    |	中等|	0.597|	0|	https://leetcode.com/problems/monthly-transactions-i|
-1194|	锦标赛优胜者    |	困难|	0.358|	0|	https://leetcode.com/problems/tournament-winners|
-1195|	交替打印字符串    |	中等|	0.592|	0|	https://leetcode.com/problems/fizz-buzz-multithreaded|
+1193|	每月交易 I    |	中等|	0.59|	0|	https://leetcode.com/problems/monthly-transactions-i|
+1194|	锦标赛优胜者    |	困难|	0.35|	0|	https://leetcode.com/problems/tournament-winners|
+1195|	交替打印字符串    |	中等|	0.59|	0|	https://leetcode.com/problems/fizz-buzz-multithreaded|
 1196|	最多可以买到的苹果数量    |	简单|	0.67|	0|	https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket|
 1197|	进击的骑士    |	中等|	0.23|	0|	https://leetcode.com/problems/minimum-knight-moves|
-1198|	找出所有行中最小公共元素    |	中等|	0.673|	0|	https://leetcode.com/problems/find-smallest-common-element-in-all-rows|
-1199|	建造街区的最短时间    |	困难|	0.278|	0|	https://leetcode.com/problems/minimum-time-to-build-blocks|
-1200|	最小绝对差    |	简单|	0.598|	0|	https://leetcode.com/problems/minimum-absolute-difference|
-1201|	丑数 III    |	中等|	0.148|	0|	https://leetcode.com/problems/ugly-number-iii|
+1198|	找出所有行中最小公共元素    |	中等|	0.67|	0|	https://leetcode.com/problems/find-smallest-common-element-in-all-rows|
+1199|	建造街区的最短时间    |	困难|	0.27|	0|	https://leetcode.com/problems/minimum-time-to-build-blocks|
+1200|	最小绝对差    |	简单|	0.59|	0|	https://leetcode.com/problems/minimum-absolute-difference|
+1201|	丑数 III    |	中等|	0.14|	0|	https://leetcode.com/problems/ugly-number-iii|
 1202|	交换字符串中的元素    |	中等|	0.25|	0|	https://leetcode.com/problems/smallest-string-with-swaps|
-1203|	项目管理    |	困难|	0.386|	0|	https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies|
-1204|	Last Person to Fit in the Elevator    |	中等|	0.545|	0|	https://leetcode.com/problems/last-person-to-fit-in-the-elevator|
+1203|	项目管理    |	困难|	0.38|	0|	https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies|
+1204|	Last Person to Fit in the Elevator    |	中等|	0.54|	0|	https://leetcode.com/problems/last-person-to-fit-in-the-elevator|
 1205|	每月交易II    |	中等|	0.36|	0|	https://leetcode.com/problems/monthly-transactions-ii|
 1206|	设计跳表    |	困难|	0.58|	0|	https://leetcode.com/problems/design-skiplist|
-1207|	独一无二的出现次数    |	简单|	0.661|	0|	https://leetcode.com/problems/unique-number-of-occurrences|
+1207|	独一无二的出现次数    |	简单|	0.66|	0|	https://leetcode.com/problems/unique-number-of-occurrences|
 1208|	尽可能使字符串相等    |	中等|	0.26|	0|	https://leetcode.com/problems/get-equal-substrings-within-budget|
-1209|	删除字符串中的所有相邻重复项 II    |	中等|	0.503|	0|	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii|
-1210|	穿过迷宫的最少移动次数    |	困难|	0.432|	0|	https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations|
-1211|	Queries Quality and Percentage    |	简单|	0.857|	0|	https://leetcode.com/problems/queries-quality-and-percentage|
-1212|	Team Scores in Football Tournament    |	中等|	0.733|	0|	https://leetcode.com/problems/team-scores-in-football-tournament|
-1213|	三个有序数组的交集    |	简单|	0.735|	0|	https://leetcode.com/problems/intersection-of-three-sorted-arrays|
-1214|	查找两棵二叉搜索树之和    |	中等|	0.595|	0|	https://leetcode.com/problems/two-sum-bsts|
-1215|	步进数    |	中等|	0.306|	0|	https://leetcode.com/problems/stepping-numbers|
-1216|	验证回文字符串 III    |	困难|	0.422|	0|	https://leetcode.com/problems/valid-palindrome-iii|
-1217|	玩筹码    |	简单|	0.633|	0|	https://leetcode.com/problems/play-with-chips|
-1218|	最长定差子序列    |	中等|	0.301|	0|	https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference|
-1219|	黄金矿工    |	中等|	0.598|	0|	https://leetcode.com/problems/path-with-maximum-gold|
-1220|	统计元音字母序列的数目    |	困难|	0.532|	0|	https://leetcode.com/problems/count-vowels-permutation|
+1209|	删除字符串中的所有相邻重复项 II    |	中等|	0.50|	0|	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii|
+1210|	穿过迷宫的最少移动次数    |	困难|	0.43|	0|	https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations|
+1211|	Queries Quality and Percentage    |	简单|	0.85|	0|	https://leetcode.com/problems/queries-quality-and-percentage|
+1212|	Team Scores in Football Tournament    |	中等|	0.73|	0|	https://leetcode.com/problems/team-scores-in-football-tournament|
+1213|	三个有序数组的交集    |	简单|	0.73|	0|	https://leetcode.com/problems/intersection-of-three-sorted-arrays|
+1214|	查找两棵二叉搜索树之和    |	中等|	0.59|	0|	https://leetcode.com/problems/two-sum-bsts|
+1215|	步进数    |	中等|	0.30|	0|	https://leetcode.com/problems/stepping-numbers|
+1216|	验证回文字符串 III    |	困难|	0.42|	0|	https://leetcode.com/problems/valid-palindrome-iii|
+1217|	玩筹码    |	简单|	0.63|	0|	https://leetcode.com/problems/play-with-chips|
+1218|	最长定差子序列    |	中等|	0.30|	0|	https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference|
+1219|	黄金矿工    |	中等|	0.59|	0|	https://leetcode.com/problems/path-with-maximum-gold|
+1220|	统计元音字母序列的数目    |	困难|	0.53|	0|	https://leetcode.com/problems/count-vowels-permutation|
 
 
 ## Announcement
