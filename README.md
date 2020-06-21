@@ -1,4 +1,4 @@
-# All_Leetcode_Q_20190610 [updated on 2019_10_13]
+# All_Leetcode_Q_20190610 [updated on 2020_06_21]
 
 <p align="center">
     <a href="https://github.com/elegantcoin/All_Leetcode_Q_20190610"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
