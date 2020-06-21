@@ -1238,7 +1238,476 @@ ps：(推荐Chrome扩展程序：Open Multiple URLs -可批量打开URLs,记得�
 1218|	最长定差子序列    |	中等|	0.30|	0|	https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference|
 1219|	黄金矿工    |	中等|	0.59|	0|	https://leetcode.com/problems/path-with-maximum-gold|
 1220|	统计元音字母序列的数目    |	困难|	0.53|	0|	https://leetcode.com/problems/count-vowels-permutation|
-
+LCP 1|猜数字    |简单|0.83|0|https://leetcode.com/problems/guess-numbers|
+LCP 2|分式化简    |简单|0.49|0|https://leetcode.com/problems/deep-dark-fraction|
+LCP 3|机器人大冒险    |中等|0.13|0|https://leetcode.com/problems/programmable-robot|
+LCP 4|覆盖    |困难|0.21|0|https://leetcode.com/problems/broken-board-dominoes|
+LCP 5|发 LeetCoin    |困难|0.21|0|https://leetcode.com/problems/coin-bonus|
+1221|分割平衡字符串  |简单|0.78|0|https://leetcode.com/problems/split-a-string-in-balanced-strings|
+1222|可以攻击国王的皇后  |中等|0.64|0|https://leetcode.com/problems/queens-that-can-attack-the-king|
+1223|掷骰子模拟  |中等|0.45|0|https://leetcode.com/problems/dice-roll-simulation|
+1224|最大相等频率  |困难|0.29|0|https://leetcode.com/problems/maximum-equal-frequency|
+1225|报告系统状态的连续日期  |困难|0.53|0|https://leetcode.com/problems/report-contiguous-dates|
+1226|哲学家进餐  |中等|0.58|0|https://leetcode.com/problems/the-dining-philosophers|
+1227|飞机座位分配概率  |中等|0.63|0|https://leetcode.com/problems/airplane-seat-assignment-probability|
+1228|等差数列中缺失的数字  |简单|0.54|0|https://leetcode.com/problems/missing-number-in-arithmetic-progression|
+1229|安排会议日程  |中等|0.35|0|https://leetcode.com/problems/meeting-scheduler|
+1230|抛掷硬币  |中等|0.42|0|https://leetcode.com/problems/toss-strange-coins|
+1231|分享巧克力  |困难|0.55|0|https://leetcode.com/problems/divide-chocolate|
+1232|缀点成线  |简单|0.50|0|https://leetcode.com/problems/check-if-it-is-a-straight-line|
+1233|删除子文件夹  |中等|0.44|0|https://leetcode.com/problems/remove-sub-folders-from-the-filesystem|
+1234|替换子串得到平衡字符串  |中等|0.30|0|https://leetcode.com/problems/replace-the-substring-for-balanced-string|
+1235|规划兼职工作  |困难|0.42|0|https://leetcode.com/problems/maximum-profit-in-job-scheduling|
+1236|网络爬虫  |中等|0.55|0|https://leetcode.com/problems/web-crawler|
+1237|找出给定方程的正整数解  |简单|0.68|0|https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation|
+1238|循环码排列  |中等|0.61|0|https://leetcode.com/problems/circular-permutation-in-binary-representation|
+1239|串联字符串的最大长度  |中等|0.39|0|https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters|
+1240|铺瓷砖  |困难|0.46|0|https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares|
+1241|每个帖子的评论数  |简单|0.60|0|https://leetcode.com/problems/number-of-comments-per-post|
+1242|多线程网页爬虫  |中等|0.38|0|https://leetcode.com/problems/web-crawler-multithreaded|
+1243|数组变换  |简单|0.52|0|https://leetcode.com/problems/array-transformation|
+1244|力扣排行榜  |中等|0.56|0|https://leetcode.com/problems/design-a-leaderboard|
+1245|树的直径  |中等|0.44|0|https://leetcode.com/problems/tree-diameter|
+1246|删除回文子数组  |困难|0.45|0|https://leetcode.com/problems/palindrome-removal|
+1247|交换字符使得字符串相同  |中等|0.57|0|https://leetcode.com/problems/minimum-swaps-to-make-strings-equal|
+1248|统计「优美子数组」  |中等|0.54|0|https://leetcode.com/problems/count-number-of-nice-subarrays|
+1249|移除无效的括号  |中等|0.55|0|https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses|
+1250|检查「好数组」  |困难|0.51|0|https://leetcode.com/problems/check-if-it-is-a-good-array|
+1251|平均售价  |简单|0.78|0|https://leetcode.com/problems/average-selling-price|
+1252|奇数值单元格的数目  |简单|0.75|0|https://leetcode.com/problems/cells-with-odd-values-in-a-matrix|
+1253|重构 2 行二进制矩阵  |中等|0.37|0|https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix|
+1254|统计封闭岛屿的数目  |中等|0.57|0|https://leetcode.com/problems/number-of-closed-islands|
+1255|得分最高的单词集合  |困难|0.64|0|https://leetcode.com/problems/maximum-score-words-formed-by-letters|
+1256|加密数字  |中等|0.62|0|https://leetcode.com/problems/encode-number|
+1257|最小公共区域  |中等|0.52|0|https://leetcode.com/problems/smallest-common-region|
+1258|近义词句子  |中等|0.57|0|https://leetcode.com/problems/synonymous-sentences|
+1259|不相交的握手  |困难|0.46|0|https://leetcode.com/problems/handshakes-that-dont-cross|
+1260|二维网格迁移  |简单|0.59|0|https://leetcode.com/problems/shift-2d-grid|
+1261|在受污染的二叉树中查找元素  |中等|0.71|0|https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree|
+1262|可被三整除的最大和  |中等|0.47|0|https://leetcode.com/problems/greatest-sum-divisible-by-three|
+1263|推箱子  |困难|0.41|0|https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location|
+1264|页面推荐  |中等|0.59|0|https://leetcode.com/problems/page-recommendations|
+1265|逆序打印不可变链表  |中等|0.92|0|https://leetcode.com/problems/print-immutable-linked-list-in-reverse|
+1266|访问所有点的最小时间  |简单|0.81|0|https://leetcode.com/problems/minimum-time-visiting-all-points|
+1267|统计参与通信的服务器  |中等|0.59|0|https://leetcode.com/problems/count-servers-that-communicate|
+1268|搜索推荐系统  |中等|0.54|0|https://leetcode.com/problems/search-suggestions-system|
+1269|停在原地的方案数  |困难|0.38|0|https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps|
+1270|向公司CEO汇报工作的所有人  |中等|0.82|0|https://leetcode.com/problems/all-people-report-to-the-given-manager|
+1271|十六进制魔术数字  |简单|0.47|0|https://leetcode.com/problems/hexspeak|
+1272|删除区间  |中等|0.48|0|https://leetcode.com/problems/remove-interval|
+1273|删除树节点  |中等|0.53|0|https://leetcode.com/problems/delete-tree-nodes|
+1274|矩形内船只的数目  |困难|0.53|0|https://leetcode.com/problems/number-of-ships-in-a-rectangle|
+1275|找出井字棋的获胜者  |简单|0.52|0|https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game|
+1276|不浪费原料的汉堡制作方案  |中等|0.49|0|https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients|
+1277|统计全为 1 的正方形子矩阵  |中等|0.69|0|https://leetcode.com/problems/count-square-submatrices-with-all-ones|
+1278|分割回文串 III  |困难|0.57|0|https://leetcode.com/problems/palindrome-partitioning-iii|
+1279|红绿灯路口  |简单|0.59|0|https://leetcode.com/problems/traffic-light-controlled-intersection|
+1280|学生们参加各科测试的次数  |简单|0.53|0|https://leetcode.com/problems/students-and-examinations|
+1281|整数的各位积和之差  |简单|0.82|0|https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer|
+1282|用户分组  |中等|0.80|0|https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to|
+1283|使结果不超过阈值的最小除数  |中等|0.36|0|https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold|
+1284|转化为全零矩阵的最少反转次数  |困难|0.63|0|https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix|
+1285|找到连续区间的开始和结束数字  |中等|0.77|0|https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges|
+1286|字母组合迭代器  |中等|0.59|0|https://leetcode.com/problems/iterator-for-combination|
+1287|有序数组中出现次数超过25%的元素  |简单|0.61|0|https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array|
+1288|删除被覆盖区间  |中等|0.55|0|https://leetcode.com/problems/remove-covered-intervals|
+1289|下降路径最小和 II  |困难|0.60|0|https://leetcode.com/problems/minimum-falling-path-sum-ii|
+1290|二进制链表转整数  |简单|0.80|0|https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer|
+1291|顺次数  |中等|0.48|0|https://leetcode.com/problems/sequential-digits|
+1292|元素和小于等于阈值的正方形的最大边长  |中等|0.42|0|https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold|
+1293|网格中的最短路径  |困难|0.36|0|https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination|
+1294|不同国家的天气类型  |简单|0.66|0|https://leetcode.com/problems/weather-type-in-each-country|
+1295|统计位数为偶数的数字  |简单|0.82|0|https://leetcode.com/problems/find-numbers-with-even-number-of-digits|
+1296|划分数组为连续数字的集合  |中等|0.42|0|https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers|
+1297|子串的最大出现次数  |中等|0.43|0|https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring|
+1298|你能从盒子里获得的最大糖果数  |困难|0.57|0|https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes|
+1299|将每个元素替换为右侧最大元素  |简单|0.77|0|https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side|
+1300|转变数组后最接近目标值的数组和  |中等|0.47|0|https://leetcode.com/problems/sum-of-mutated-array-closest-to-target|
+1301|最大得分的路径数目  |困难|0.32|0|https://leetcode.com/problems/number-of-paths-with-max-score|
+1302|层数最深叶子节点的和  |中等|0.80|0|https://leetcode.com/problems/deepest-leaves-sum|
+1303|求团队人数  |简单|0.82|0|https://leetcode.com/problems/find-the-team-size|
+1304|和为零的N个唯一整数  |简单|0.74|0|https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero|
+1305|两棵二叉搜索树中的所有元素  |中等|0.73|0|https://leetcode.com/problems/all-elements-in-two-binary-search-trees|
+1306|跳跃游戏 III  |中等|0.58|0|https://leetcode.com/problems/jump-game-iii|
+1307|口算难题  |困难|0.33|0|https://leetcode.com/problems/verbal-arithmetic-puzzle|
+1308|不同性别每日分数总计  |中等|0.73|0|https://leetcode.com/problems/running-total-for-different-genders|
+1309|解码字母到整数映射  |简单|0.74|0|https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping|
+1310|子数组异或查询  |中等|0.63|0|https://leetcode.com/problems/xor-queries-of-a-subarray|
+1311|获取你好友已观看的视频  |中等|0.36|0|https://leetcode.com/problems/get-watched-videos-by-your-friends|
+1312|让字符串成为回文串的最少插入次数  |困难|0.57|0|https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome|
+1313|解压缩编码列表  |简单|0.82|0|https://leetcode.com/problems/decompress-run-length-encoded-list|
+1314|矩阵区域和  |中等|0.70|0|https://leetcode.com/problems/matrix-block-sum|
+1315|祖父节点值为偶数的节点和  |中等|0.80|0|https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent|
+1316|不同的循环子字符串  |困难|0.40|0|https://leetcode.com/problems/distinct-echo-substrings|
+1317|将整数转换为两个无零整数的和  |简单|0.61|0|https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers|
+1318|或运算的最小翻转次数  |中等|0.61|0|https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c|
+1319|连通网络的操作次数  |中等|0.49|0|https://leetcode.com/problems/number-of-operations-to-make-network-connected|
+1320|二指输入的的最小距离  |困难|0.56|0|https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers|
+1321|餐馆营业额变化增长  |中等|0.55|0|https://leetcode.com/problems/restaurant-growth|
+1322|广告效果  |简单|0.59|0|https://leetcode.com/problems/ads-performance|
+1323|6 和 9 组成的最大数字  |简单|0.75|0|https://leetcode.com/problems/maximum-69-number|
+1324|竖直打印单词  |中等|0.57|0|https://leetcode.com/problems/print-words-vertically|
+1325|删除给定值的叶子节点  |中等|0.70|0|https://leetcode.com/problems/delete-leaves-with-a-given-value|
+1326|灌溉花园的最少水龙头数目  |困难|0.45|0|https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden|
+1327|列出指定时间段内所有的下单产品  |简单|0.70|0|https://leetcode.com/problems/list-the-products-ordered-in-a-period|
+1328|破坏回文串  |中等|0.43|0|https://leetcode.com/problems/break-a-palindrome|
+1329|将矩阵按对角线排序  |中等|0.76|0|https://leetcode.com/problems/sort-the-matrix-diagonally|
+1330|翻转子数组得到最大的数组值  |困难|0.36|0|https://leetcode.com/problems/reverse-subarray-to-maximize-array-value|
+1331|数组序号转换  |简单|0.52|0|https://leetcode.com/problems/rank-transform-of-an-array|
+1332|删除回文子序列  |简单|0.63|0|https://leetcode.com/problems/remove-palindromic-subsequences|
+1333|餐厅过滤器  |中等|0.50|0|https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance|
+1334|阈值距离内邻居最少的城市  |中等|0.45|0|https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance|
+1335|工作计划的最低难度  |困难|0.57|0|https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule|
+1336|每次访问的交易次数  |困难|0.41|0|https://leetcode.com/problems/number-of-transactions-per-visit|
+1337|方阵中战斗力最弱的 K 行  |简单|0.63|0|https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix|
+1338|数组大小减半  |中等|0.61|0|https://leetcode.com/problems/reduce-array-size-to-the-half|
+1339|分裂二叉树的最大乘积  |中等|0.37|0|https://leetcode.com/problems/maximum-product-of-splitted-binary-tree|
+1340|跳跃游戏 V  |困难|0.52|0|https://leetcode.com/problems/jump-game-v|
+1341|电影评分  |中等|0.46|0|https://leetcode.com/problems/movie-rating|
+1342|将数字变成 0 的操作次数  |简单|0.82|0|https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero|
+1343|大小为 K 且平均值大于等于阈值的子数组数目  |中等|0.54|0|https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|
+1344|时钟指针的夹角  |中等|0.58|0|https://leetcode.com/problems/angle-between-hands-of-a-clock|
+1345|跳跃游戏 IV  |困难|0.32|0|https://leetcode.com/problems/jump-game-iv|
+1346|检查整数及其两倍数是否存在  |简单|0.42|0|https://leetcode.com/problems/check-if-n-and-its-double-exist|
+1347|制造字母异位词的最小步骤数  |中等|0.70|0|https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram|
+1348|推文计数  |中等|0.26|0|https://leetcode.com/problems/tweet-counts-per-frequency|
+1349|参加考试的最大学生数  |困难|0.42|0|https://leetcode.com/problems/maximum-students-taking-exam|
+1350|院系无效的学生  |简单|0.85|0|https://leetcode.com/problems/students-with-invalid-departments|
+1351|统计有序矩阵中的负数  |简单|0.76|0|https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix|
+1352|最后 K 个数的乘积  |中等|0.41|0|https://leetcode.com/problems/product-of-the-last-k-numbers|
+1353|最多可以参加的会议数目  |中等|0.28|0|https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended|
+1354|多次求和构造目标数组  |困难|0.29|0|https://leetcode.com/problems/construct-target-array-with-multiple-sums|
+1355|活动参与者  |中等|0.62|0|https://leetcode.com/problems/activity-participants|
+1356|根据数字二进制下 1 的数目排序  |简单|0.66|0|https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits|
+1357|每隔 n 个顾客打折  |中等|0.47|0|https://leetcode.com/problems/apply-discount-every-n-orders|
+1358|包含所有三种字符的子字符串数目  |中等|0.42|0|https://leetcode.com/problems/number-of-substrings-containing-all-three-characters|
+1359|有效的快递序列数目  |困难|0.54|0|https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options|
+1360|日期之间隔几天  |简单|0.46|0|https://leetcode.com/problems/number-of-days-between-two-dates|
+1361|验证二叉树  |中等|0.46|0|https://leetcode.com/problems/validate-binary-tree-nodes|
+1362|最接近的因数  |中等|0.49|0|https://leetcode.com/problems/closest-divisors|
+1363|形成三的最大倍数  |困难|0.31|0|https://leetcode.com/problems/largest-multiple-of-three|
+1364|顾客的可信联系人数量  |中等|0.67|0|https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer|
+1365|有多少小于当前数字的数字  |简单|0.82|0|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
+1366|通过投票对团队排名  |中等|0.48|0|https://leetcode.com/problems/rank-teams-by-votes|
+1367|二叉树中的列表  |中等|0.38|0|https://leetcode.com/problems/linked-list-in-binary-tree|
+1368|使网格图至少有一条有效路径的最小代价  |困难|0.48|0|https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid|
+1369|获取最近第二次的活动  |困难|0.52|0|https://leetcode.com/problems/get-the-second-most-recent-activity|
+1370|上升下降字符串  |简单|0.74|0|https://leetcode.com/problems/increasing-decreasing-string|
+1371|每个元音包含偶数次的最长子字符串  |中等|0.58|0|https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts|
+1372|二叉树中的最长交错路径  |中等|0.47|0|https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree|
+1373|二叉搜索子树的最大键值和  |困难|0.41|0|https://leetcode.com/problems/maximum-sum-bst-in-binary-tree|
+1374|生成每种字符都是奇数个的字符串  |简单|0.71|0|https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts|
+1375|灯泡开关 III  |中等|0.51|0|https://leetcode.com/problems/bulb-switcher-iii|
+1376|通知所有员工所需的时间  |中等|0.47|0|https://leetcode.com/problems/time-needed-to-inform-all-employees|
+1377|T 秒后青蛙的位置  |困难|0.29|0|https://leetcode.com/problems/frog-position-after-t-seconds|
+1378|使用唯一标识码替换员工ID  |简单|0.86|0|https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier|
+1379|找出克隆二叉树中的相同节点  |中等|0.81|0|https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree|
+1380|矩阵中的幸运数  |简单|0.70|0|https://leetcode.com/problems/lucky-numbers-in-a-matrix|
+1381|设计一个支持增量操作的栈  |中等|0.72|0|https://leetcode.com/problems/design-a-stack-with-increment-operation|
+1382|将二叉搜索树变平衡  |中等|0.65|0|https://leetcode.com/problems/balance-a-binary-search-tree|
+1383|最大的团队表现值  |困难|0.28|0|https://leetcode.com/problems/maximum-performance-of-a-team|
+1384|按年度列出销售总额  |困难|0.52|0|https://leetcode.com/problems/total-sales-amount-by-year|
+1385|两个数组间的距离值  |简单|0.71|0|https://leetcode.com/problems/find-the-distance-value-between-two-arrays|
+1386|安排电影院座位  |中等|0.27|0|https://leetcode.com/problems/cinema-seat-allocation|
+1387|将整数按权重排序  |中等|0.68|0|https://leetcode.com/problems/sort-integers-by-the-power-value|
+1388|3n 块披萨  |困难|0.43|0|https://leetcode.com/problems/pizza-with-3n-slices|
+1389|按既定顺序创建目标数组  |简单|0.81|0|https://leetcode.com/problems/create-target-array-in-the-given-order|
+1390|四因数  |中等|0.32|0|https://leetcode.com/problems/four-divisors|
+1391|检查网格中是否存在有效路径  |中等|0.39|0|https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid|
+1392|最长快乐前缀  |困难|0.34|0|https://leetcode.com/problems/longest-happy-prefix|
+1393|股票的资本损益  |中等|0.87|0|https://leetcode.com/problems/capital-gainloss|
+1394|找出数组中的幸运数  |简单|0.67|0|https://leetcode.com/problems/find-lucky-integer-in-an-array|
+1395|统计作战单位数  |中等|0.82|0|https://leetcode.com/problems/count-number-of-teams|
+1396|设计地铁系统  |中等|0.44|0|https://leetcode.com/problems/design-underground-system|
+1397|找到所有好字符串  |困难|0.31|0|https://leetcode.com/problems/find-all-good-strings|
+1398|购买了产品A和产品B却没有购买产品C的顾客  |中等|0.80|0|https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c|
+1399|统计最大组的数目  |简单|0.64|0|https://leetcode.com/problems/count-largest-group|
+1400|构造 K 个回文字符串  |中等|0.56|0|https://leetcode.com/problems/construct-k-palindrome-strings|
+1401|圆和矩形是否有重叠  |中等|0.36|0|https://leetcode.com/problems/circle-and-rectangle-overlapping|
+1402|做菜顺序  |困难|0.72|0|https://leetcode.com/problems/reducing-dishes|
+1403|非递增顺序的最小子序列  |简单|0.70|0|https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order|
+1404|将二进制表示减到 1 的步骤数  |中等|0.46|0|https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one|
+1405|最长快乐字符串  |中等|0.44|0|https://leetcode.com/problems/longest-happy-string|
+1406|石子游戏 III  |困难|0.56|0|https://leetcode.com/problems/stone-game-iii|
+1407|排名靠前的旅行者  |简单|0.66|0|https://leetcode.com/problems/top-travellers|
+1408|数组中的字符串匹配  |简单|0.59|0|https://leetcode.com/problems/string-matching-in-an-array|
+1409|查询带键的排列  |中等|0.79|0|https://leetcode.com/problems/queries-on-a-permutation-with-key|
+1410|HTML 实体解析器  |中等|0.49|0|https://leetcode.com/problems/html-entity-parser|
+1411|给 N x 3 网格图涂色的方案数  |困难|0.56|0|https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid|
+1412|查找成绩处于中游的的学生  |困难|0.61|0|https://leetcode.com/problems/find-the-quiet-students-in-all-exams|
+1413|逐步求和得到正数的最小值  |简单|0.68|0|https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum|
+1414|和为 K 的最少斐波那契数字数目  |中等|0.54|0|https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k|
+1415|长度为 n 的开心字符串中字典序第 k 小的字符串  |中等|0.68|0|https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n|
+1416|恢复数组  |困难|0.34|0|https://leetcode.com/problems/restore-the-array|
+1417|重新格式化字符串  |简单|0.50|0|https://leetcode.com/problems/reformat-the-string|
+1418|点菜展示表  |中等|0.56|0|https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant|
+1419|数青蛙  |中等|0.37|0|https://leetcode.com/problems/minimum-number-of-frogs-croaking|
+1420|生成数组  |困难|0.57|0|https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons|
+1421|净现值查询  |中等|0.73|0|https://leetcode.com/problems/npv-queries|
+1422|分割字符串的最大得分  |简单|0.52|0|https://leetcode.com/problems/maximum-score-after-splitting-a-string|
+1423|可获得的最大点数  |中等|0.40|0|https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards|
+1424|对角线遍历 II  |中等|0.36|0|https://leetcode.com/problems/diagonal-traverse-ii|
+1425|带限制的子序列和  |困难|0.40|0|https://leetcode.com/problems/constrained-subsequence-sum|
+1426|数元素  |简单|0.63|0|https://leetcode.com/problems/counting-elements|
+1427|字符串的左右移  |简单|0.67|0|https://leetcode.com/problems/perform-string-shifts|
+1428|至少有一个 1 的最左端列  |中等|0.68|0|https://leetcode.com/problems/leftmost-column-with-at-least-a-one|
+1429|First Unique Number  |中等|0.55|0|https://leetcode.com/problems/first-unique-number|
+1430|Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree  |中等|0.63|0|https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree|
+1431|拥有最多糖果的孩子  |简单|0.87|0|https://leetcode.com/problems/kids-with-the-greatest-number-of-candies|
+1432|改变一个整数能得到的最大差值  |中等|0.38|0|https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer|
+1433|检查一个字符串是否可以打破另一个字符串  |中等|0.61|0|https://leetcode.com/problems/check-if-a-string-can-break-another-string|
+1434|每个人戴不同帽子的方案数  |困难|0.39|0|https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other|
+1435|Create a Session Bar Chart  |简单|0.62|0|https://leetcode.com/problems/create-a-session-bar-chart|
+1436|旅行终点站  |简单|0.79|0|https://leetcode.com/problems/destination-city|
+1437|是否所有 1 都至少相隔 k 个元素  |中等|0.61|0|https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away|
+1438|绝对差不超过限制的最长连续子数组  |中等|0.38|0|https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit|
+1439|有序矩阵中的第 k 个最小数组和  |困难|0.53|0|https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows|
+1440|计算布尔表达式的值  |中等|0.72|0|https://leetcode.com/problems/evaluate-boolean-expression|
+1441|用栈操作构建数组  |简单|0.63|0|https://leetcode.com/problems/build-an-array-with-stack-operations|
+1442|形成两个异或相等数组的三元组数目  |中等|0.63|0|https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor|
+1443|收集树上所有苹果的最少时间  |中等|0.44|0|https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree|
+1444|切披萨的方案数  |困难|0.49|0|https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza|
+1445|苹果和桔子  |中等|0.92|0|https://leetcode.com/problems/apples-oranges|
+1446|连续字符  |简单|0.58|0|https://leetcode.com/problems/consecutive-characters|
+1447|最简分数  |中等|0.59|0|https://leetcode.com/problems/simplified-fractions|
+1448|统计二叉树中好节点的数目  |中等|0.69|0|https://leetcode.com/problems/count-good-nodes-in-binary-tree|
+1449|数位成本和为目标值的最大数字  |困难|0.35|0|https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target|
+1450|在既定时间做作业的学生人数  |简单|0.81|0|https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time|
+1451|重新排列句子中的单词  |中等|0.47|0|https://leetcode.com/problems/rearrange-words-in-a-sentence|
+1452|收藏清单  |中等|0.46|0|https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list|
+1453|圆形靶内的最大飞镖数量  |困难|0.33|0|https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard|
+1454| 活跃用户  |中等|0.43|0|https://leetcode.com/problems/active-users|
+1455|检查单词是否为句中其他单词的前缀  |简单|0.64|0|https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence|
+1456|定长子串中元音的最大数目  |中等|0.46|0|https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length|
+1457|二叉树中的伪回文路径  |中等|0.63|0|https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree|
+1458|两个子序列的最大点积  |困难|0.40|0|https://leetcode.com/problems/max-dot-product-of-two-subsequences|
+1459|矩形面积  |中等|0.44|0|https://leetcode.com/problems/rectangles-area|
+1460|通过翻转子数组使两个数组相等  |简单|0.77|0|https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays|
+1461|检查一个字符串是否包含所有长度为 K 的二进制子串  |中等|0.45|0|https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k|
+1462|课程安排 IV  |中等|0.37|0|https://leetcode.com/problems/course-schedule-iv|
+1463|摘樱桃 II  |困难|0.55|0|https://leetcode.com/problems/cherry-pickup-ii|
+1464|数组中两元素的最大乘积  |简单|0.80|0|https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array|
+1465|切割后面积最大的蛋糕  |中等|0.27|0|https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts|
+1466|重新规划路线  |中等|0.50|0|https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero|
+1467|两个盒子中球的颜色数相同的概率  |困难|0.59|0|https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls|
+1468|计算税后工资  |中等|0.75|0|https://leetcode.com/problems/calculate-salaries|
+1469|Find All The Lonely Nodes  |简单|0.78|0|https://leetcode.com/problems/find-all-the-lonely-nodes|
+1470|重新排列数组  |简单|0.87|0|https://leetcode.com/problems/shuffle-the-array|
+1471|数组中的 k 个最强值  |中等|0.52|0|https://leetcode.com/problems/the-k-strongest-values-in-an-array|
+1472|设计浏览器历史记录  |中等|0.57|0|https://leetcode.com/problems/design-browser-history|
+1473|给房子涂色 III  |困难|0.46|0|https://leetcode.com/problems/paint-house-iii|
+1474|删除链表 M 个节点之后的 N 个节点  |简单|0.68|0|https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list|
+1475|商品折扣后的最终价格  |简单|0.77|0|https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop|
+1476|子矩形查询  |中等|0.92|0|https://leetcode.com/problems/subrectangle-queries|
+1477|找两个和为目标值且不重叠的子数组  |中等|0.23|0|https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum|
+1478|安排邮筒  |困难|0.52|0|https://leetcode.com/problems/allocate-mailboxes|
+1480|一维数组的动态和  |简单|0.92|0|https://leetcode.com/problems/running-sum-of-1d-array|
+1481|不同整数的最少数目  |中等|0.51|0|https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals|
+1482|制作 m 束花所需的最少天数  |中等|0.39|0|https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets|
+1483|树节点的第 K 个祖先  |困难|0.24|0|https://leetcode.com/problems/kth-ancestor-of-a-tree-node|
+1484|Clone Binary Tree With Random Pointer  新|中等|0.82|0|https://leetcode.com/problems/group-sold-products-by-the-date|
+1485|Group Sold Products By The Date  新|简单|0.64|0|https://leetcode.com/problems/clone-binary-tree-with-random-pointer|
+5452|Sales by Day of the Week  新|困难|0.69|0|https://leetcode-cn.com/problems/sales-by-day-of-the-week|
+LCP 01|猜数字  |简单|0.83|0|https://leetcode-cn.com/problems/guess-numbers|
+LCP 02|分式化简  |简单|0.63|0|https://leetcode-cn.com/problems/deep-dark-fraction|
+LCP 03|机器人大冒险  |中等|0.19|0|https://leetcode-cn.com/problems/programmable-robot|
+LCP 04|覆盖  |困难|0.32|0|https://leetcode-cn.com/problems/broken-board-dominoes|
+LCP 05|发 LeetCoin  |困难|0.16|0|https://leetcode-cn.com/problems/coin-bonus|
+LCP 06|拿硬币  |简单|0.81|0|https://leetcode-cn.com/problems/na-ying-bi|
+LCP 07|传递信息  |简单|0.56|0|https://leetcode-cn.com/problems/chuan-di-xin-xi|
+LCP 08|剧情触发时间  |中等|0.22|0|https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian|
+LCP 09|最小跳跃次数  |困难|0.18|0|https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu|
+LCP 10|二叉树任务调度  |困难|0.50|0|https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du|
+LCP 11|期望个数统计  |简单|0.56|0|https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji|
+LCP 12|小张刷题计划  |中等|0.28|0|https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua|
+LCP 13|寻宝  |困难|0.19|0|https://leetcode-cn.com/problems/xun-bao|
+LCP 14|切分数组  |困难|0.13|0|https://leetcode-cn.com/problems/qie-fen-shu-zu|
+LCP 15|游乐园的迷宫  |困难|0.48|0|https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong|
+LCP 16|游乐园的游览计划  |困难|0.22|0|https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua|
+剑指 Offer 03|数组中重复的数字  |简单|0.67|0|https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof|
+剑指 Offer 04|二维数组中的查找  |简单|0.40|0|https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof|
+剑指 Offer 05|替换空格  |简单|0.76|0|https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof|
+剑指 Offer 06|从尾到头打印链表  |简单|0.75|0|https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof|
+剑指 Offer 07|重建二叉树  |中等|0.68|0|https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof|
+剑指 Offer 09|用两个栈实现队列  |简单|0.71|0|https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof|
+剑指 Offer 10- I|斐波那契数列  |简单|0.33|0|https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof|
+剑指 Offer 10- II|青蛙跳台阶问题  |简单|0.41|0|https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof|
+剑指 Offer 11|旋转数组的最小数字  |简单|0.47|0|https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof|
+剑指 Offer 12|矩阵中的路径  |中等|0.43|0|https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof|
+剑指 Offer 13|机器人的运动范围  |中等|0.48|0|https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof|
+剑指 Offer 14- I|剪绳子  |中等|0.54|0|https://leetcode-cn.com/problems/jian-sheng-zi-lcof|
+剑指 Offer 14- II|剪绳子 II  |中等|0.30|0|https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof|
+剑指 Offer 15|二进制中1的个数  |简单|0.73|0|https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof|
+剑指 Offer 16|数值的整数次方  |中等|0.32|0|https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof|
+剑指 Offer 17|打印从1到最大的n位数  |简单|0.78|0|https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof|
+剑指 Offer 18|删除链表的节点  |简单|0.58|0|https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof|
+剑指 Offer 19|正则表达式匹配  |困难|0.34|0|https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof|
+剑指 Offer 20|表示数值的字符串  |中等|0.20|0|https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof|
+剑指 Offer 21|调整数组顺序使奇数位于偶数前面  |简单|0.64|0|https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof|
+剑指 Offer 22|链表中倒数第k个节点  |简单|0.78|0|https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof|
+剑指 Offer 24|反转链表  |简单|0.75|0|https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof|
+剑指 Offer 25|合并两个排序的链表  |简单|0.74|0|https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof|
+剑指 Offer 26|树的子结构  |中等|0.46|0|https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof|
+剑指 Offer 27|二叉树的镜像  |简单|0.78|0|https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof|
+剑指 Offer 28|对称的二叉树  |简单|0.57|0|https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof|
+剑指 Offer 29|顺时针打印矩阵  |简单|0.45|0|https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof|
+剑指 Offer 30|包含min函数的栈  |简单|0.57|0|https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof|
+剑指 Offer 31|栈的压入、弹出序列  |中等|0.57|0|https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof|
+剑指 Offer 32 - I|从上到下打印二叉树  |中等|0.64|0|https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof|
+剑指 Offer 32 - II|从上到下打印二叉树 II  |简单|0.68|0|https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof|
+剑指 Offer 32 - III|从上到下打印二叉树 III  |中等|0.58|0|https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof|
+剑指 Offer 33|二叉搜索树的后序遍历序列  |中等|0.51|0|https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof|
+剑指 Offer 34|二叉树中和为某一值的路径  |中等|0.56|0|https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof|
+剑指 Offer 35|复杂链表的复制  |中等|0.70|0|https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof|
+剑指 Offer 36|二叉搜索树与双向链表  |中等|0.62|0|https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof|
+剑指 Offer 37|序列化二叉树  |困难|0.51|0|https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof|
+剑指 Offer 38|字符串的排列  |中等|0.53|0|https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof|
+剑指 Offer 39|数组中出现次数超过一半的数字  |简单|0.67|0|https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof|
+剑指 Offer 40|最小的k个数  |简单|0.58|0|https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof|
+剑指 Offer 41|数据流中的中位数  |困难|0.55|0|https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof|
+剑指 Offer 42|连续子数组的最大和  |简单|0.59|0|https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof|
+剑指 Offer 43|1～n整数中1出现的次数  |中等|0.44|0|https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof|
+剑指 Offer 44|数字序列中某一位的数字  |中等|0.38|0|https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof|
+剑指 Offer 45|把数组排成最小的数  |中等|0.55|0|https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof|
+剑指 Offer 46|把数字翻译成字符串  |中等|0.54|0|https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof|
+剑指 Offer 47|礼物的最大价值  |中等|0.67|0|https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof|
+剑指 Offer 48|最长不含重复字符的子字符串  |中等|0.45|0|https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof|
+剑指 Offer 49|丑数  |中等|0.63|0|https://leetcode-cn.com/problems/chou-shu-lcof|
+剑指 Offer 50|第一个只出现一次的字符  |简单|0.59|0|https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof|
+剑指 Offer 51|数组中的逆序对  |困难|0.45|0|https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof|
+剑指 Offer 52|两个链表的第一个公共节点  |简单|0.63|0|https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof|
+剑指 Offer 53 - I|在排序数组中查找数字 I  |简单|0.52|0|https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof|
+剑指 Offer 53 - II|0～n-1中缺失的数字  |简单|0.44|0|https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof|
+剑指 Offer 54|二叉搜索树的第k大节点  |简单|0.73|0|https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof|
+剑指 Offer 55 - I|二叉树的深度  |简单|0.78|0|https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof|
+剑指 Offer 55 - II|平衡二叉树  |简单|0.57|0|https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof|
+剑指 Offer 56 - I|数组中数字出现的次数  |中等|0.72|0|https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof|
+剑指 Offer 56 - II|数组中数字出现的次数 II  |中等|0.78|0|https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof|
+剑指 Offer 57|和为s的两个数字  |简单|0.65|0|https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof|
+剑指 Offer 57 - II|和为s的连续正数序列  |简单|0.68|0|https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof|
+剑指 Offer 58 - I|翻转单词顺序  |简单|0.41|0|https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof|
+剑指 Offer 58 - II|左旋转字符串  |简单|0.84|0|https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof|
+剑指 Offer 59 - I|滑动窗口的最大值  |简单|0.43|0|https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof|
+剑指 Offer 59 - II|队列的最大值  |中等|0.48|0|https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof|
+剑指 Offer 60|n个骰子的点数  |简单|0.53|0|https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof|
+剑指 Offer 61|扑克牌中的顺子  |简单|0.43|0|https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof|
+剑指 Offer 62|圆圈中最后剩下的数字  |简单|0.61|0|https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof|
+剑指 Offer 63|股票的最大利润  |中等|0.63|0|https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof|
+剑指 Offer 64|求1+2+…+n  |中等|0.85|0|https://leetcode-cn.com/problems/qiu-12n-lcof|
+剑指 Offer 65|不用加减乘除做加法  |简单|0.55|0|https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof|
+剑指 Offer 66|构建乘积数组  |简单|0.57|0|https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof|
+剑指 Offer 67|把字符串转换成整数  |中等|0.27|0|https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof|
+剑指 Offer 68 - I|二叉搜索树的最近公共祖先  |简单|0.67|0|https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof|
+剑指 Offer 68 - II|二叉树的最近公共祖先  |简单|0.68|0|https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof|
+面试题 01.01|判定字符是否唯一  |简单|0.72|0|https://leetcode-cn.com/problems/is-unique-lcci|
+面试题 01.02|判定是否互为字符重排  |简单|0.66|0|https://leetcode-cn.com/problems/check-permutation-lcci|
+面试题 01.03|URL化  |简单|0.58|0|https://leetcode-cn.com/problems/string-to-url-lcci|
+面试题 01.04|回文排列  |简单|0.54|0|https://leetcode-cn.com/problems/palindrome-permutation-lcci|
+面试题 01.05|一次编辑  |中等|0.32|0|https://leetcode-cn.com/problems/one-away-lcci|
+面试题 01.06|字符串压缩  |简单|0.48|0|https://leetcode-cn.com/problems/compress-string-lcci|
+面试题 01.07|旋转矩阵  |中等|0.79|0|https://leetcode-cn.com/problems/rotate-matrix-lcci|
+面试题 01.08|零矩阵  |中等|0.64|0|https://leetcode-cn.com/problems/zero-matrix-lcci|
+面试题 01.09|字符串轮转  |简单|0.54|0|https://leetcode-cn.com/problems/string-rotation-lcci|
+面试题 02.01|移除重复节点  |简单|0.65|0|https://leetcode-cn.com/problems/remove-duplicate-node-lcci|
+面试题 02.02|返回倒数第 k 个节点  |简单|0.78|0|https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci|
+面试题 02.03|删除中间节点  |简单|0.83|0|https://leetcode-cn.com/problems/delete-middle-node-lcci|
+面试题 02.04|分割链表  |中等|0.62|0|https://leetcode-cn.com/problems/partition-list-lcci|
+面试题 02.05|链表求和  |中等|0.45|0|https://leetcode-cn.com/problems/sum-lists-lcci|
+面试题 02.06|回文链表  |简单|0.47|0|https://leetcode-cn.com/problems/palindrome-linked-list-lcci|
+面试题 02.07|链表相交  |简单|0.67|0|https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci|
+面试题 02.08|环路检测  |中等|0.50|0|https://leetcode-cn.com/problems/linked-list-cycle-lcci|
+面试题 03.01|三合一  |简单|0.55|0|https://leetcode-cn.com/problems/three-in-one-lcci|
+面试题 03.02|栈的最小值  |简单|0.59|0|https://leetcode-cn.com/problems/min-stack-lcci|
+面试题 03.03|堆盘子  |中等|0.37|0|https://leetcode-cn.com/problems/stack-of-plates-lcci|
+面试题 03.04|化栈为队  |简单|0.72|0|https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci|
+面试题 03.05|栈排序  |中等|0.53|0|https://leetcode-cn.com/problems/sort-of-stacks-lcci|
+面试题 03.06|动物收容所  |简单|0.59|0|https://leetcode-cn.com/problems/animal-shelter-lcci|
+面试题 04.01|节点间通路  |中等|0.53|0|https://leetcode-cn.com/problems/route-between-nodes-lcci|
+面试题 04.02|最小高度树  |简单|0.79|0|https://leetcode-cn.com/problems/minimum-height-tree-lcci|
+面试题 04.03|特定深度节点链表  |中等|0.80|0|https://leetcode-cn.com/problems/list-of-depth-lcci|
+面试题 04.04|检查平衡性  |简单|0.55|0|https://leetcode-cn.com/problems/check-balance-lcci|
+面试题 04.05|合法二叉搜索树  |中等|0.33|0|https://leetcode-cn.com/problems/legal-binary-search-tree-lcci|
+面试题 04.06|后继者  |中等|0.57|0|https://leetcode-cn.com/problems/successor-lcci|
+面试题 04.08|首个共同祖先  |中等|0.68|0|https://leetcode-cn.com/problems/first-common-ancestor-lcci|
+面试题 04.09|二叉搜索树序列  |困难|0.44|0|https://leetcode-cn.com/problems/bst-sequences-lcci|
+面试题 04.10|检查子树  |中等|0.71|0|https://leetcode-cn.com/problems/check-subtree-lcci|
+面试题 04.12|求和路径  |中等|0.48|0|https://leetcode-cn.com/problems/paths-with-sum-lcci|
+面试题 05.01|插入  |简单|0.49|0|https://leetcode-cn.com/problems/insert-into-bits-lcci|
+面试题 05.02|二进制数转字符串  |中等|0.59|0|https://leetcode-cn.com/problems/bianry-number-to-string-lcci|
+面试题 05.03|翻转数位  |简单|0.48|0|https://leetcode-cn.com/problems/reverse-bits-lcci|
+面试题 05.04|下一个数  |中等|0.42|0|https://leetcode-cn.com/problems/closed-number-lcci|
+面试题 05.06|整数转换  |简单|0.50|0|https://leetcode-cn.com/problems/convert-integer-lcci|
+面试题 05.07|配对交换  |简单|0.68|0|https://leetcode-cn.com/problems/exchange-lcci|
+面试题 05.08|绘制直线  |中等|0.55|0|https://leetcode-cn.com/problems/draw-line-lcci|
+面试题 08.01|三步问题  |简单|0.34|0|https://leetcode-cn.com/problems/three-steps-problem-lcci|
+面试题 08.02|迷路的机器人  |中等|0.33|0|https://leetcode-cn.com/problems/robot-in-a-grid-lcci|
+面试题 08.03|魔术索引  |简单|0.64|0|https://leetcode-cn.com/problems/magic-index-lcci|
+面试题 08.04|幂集  |中等|0.79|0|https://leetcode-cn.com/problems/power-set-lcci|
+面试题 08.05|递归乘法  |中等|0.67|0|https://leetcode-cn.com/problems/recursive-mulitply-lcci|
+面试题 08.06|汉诺塔问题  |简单|0.63|0|https://leetcode-cn.com/problems/hanota-lcci|
+面试题 08.07|无重复字符串的排列组合  |中等|0.81|0|https://leetcode-cn.com/problems/permutation-i-lcci|
+面试题 08.08|有重复字符串的排列组合  |中等|0.70|0|https://leetcode-cn.com/problems/permutation-ii-lcci|
+面试题 08.09|括号  |中等|0.80|0|https://leetcode-cn.com/problems/bracket-lcci|
+面试题 08.10|颜色填充  |简单|0.54|0|https://leetcode-cn.com/problems/color-fill-lcci|
+面试题 08.11|硬币  |中等|0.50|0|https://leetcode-cn.com/problems/coin-lcci|
+面试题 08.12|八皇后  |困难|0.74|0|https://leetcode-cn.com/problems/eight-queens-lcci|
+面试题 08.13|堆箱子  |困难|0.47|0|https://leetcode-cn.com/problems/pile-box-lcci|
+面试题 08.14|布尔运算  |中等|0.47|0|https://leetcode-cn.com/problems/boolean-evaluation-lcci|
+面试题 10.01|合并排序的数组  |简单|0.54|0|https://leetcode-cn.com/problems/sorted-merge-lcci|
+面试题 10.02|变位词组  |中等|0.65|0|https://leetcode-cn.com/problems/group-anagrams-lcci|
+面试题 10.03|搜索旋转数组  |中等|0.39|0|https://leetcode-cn.com/problems/search-rotate-array-lcci|
+面试题 10.05|稀疏数组搜索  |简单|0.57|0|https://leetcode-cn.com/problems/sparse-array-search-lcci|
+面试题 10.09|排序矩阵查找  |中等|0.44|0|https://leetcode-cn.com/problems/sorted-matrix-search-lcci|
+面试题 10.10|数字流的秩  |中等|0.60|0|https://leetcode-cn.com/problems/rank-from-stream-lcci|
+面试题 10.11|峰与谷  |中等|0.65|0|https://leetcode-cn.com/problems/peaks-and-valleys-lcci|
+面试题 16.01|交换数字  |中等|0.82|0|https://leetcode-cn.com/problems/swap-numbers-lcci|
+面试题 16.02|单词频率  |中等|0.75|0|https://leetcode-cn.com/problems/words-frequency-lcci|
+面试题 16.03|交点  |困难|0.45|0|https://leetcode-cn.com/problems/intersection-lcci|
+面试题 16.04|井字游戏  |中等|0.42|0|https://leetcode-cn.com/problems/tic-tac-toe-lcci|
+面试题 16.05|阶乘尾数  |简单|0.46|0|https://leetcode-cn.com/problems/factorial-zeros-lcci|
+面试题 16.06|最小差  |中等|0.40|0|https://leetcode-cn.com/problems/smallest-difference-lcci|
+面试题 16.07|最大数值  |简单|0.71|0|https://leetcode-cn.com/problems/maximum-lcci|
+面试题 16.08|整数的英语表示  |困难|0.35|0|https://leetcode-cn.com/problems/english-int-lcci|
+面试题 16.09|运算  |中等|0.46|0|https://leetcode-cn.com/problems/operations-lcci|
+面试题 16.10|生存人数  |中等|0.66|0|https://leetcode-cn.com/problems/living-people-lcci|
+面试题 16.11|跳水板  |简单|0.40|0|https://leetcode-cn.com/problems/diving-board-lcci|
+面试题 16.13|平分正方形  |中等|0.42|0|https://leetcode-cn.com/problems/bisect-squares-lcci|
+面试题 16.14|最佳直线  |中等|0.51|0|https://leetcode-cn.com/problems/best-line-lcci|
+面试题 16.15|珠玑妙算  |简单|0.49|0|https://leetcode-cn.com/problems/master-mind-lcci|
+面试题 16.16|部分排序  |中等|0.42|0|https://leetcode-cn.com/problems/sub-sort-lcci|
+面试题 16.17|连续数列  |简单|0.59|0|https://leetcode-cn.com/problems/contiguous-sequence-lcci|
+面试题 16.18|模式匹配  |中等|0.26|0|https://leetcode-cn.com/problems/pattern-matching-lcci|
+面试题 16.19|水域大小  |中等|0.57|0|https://leetcode-cn.com/problems/pond-sizes-lcci|
+面试题 16.20|T9键盘  |中等|0.71|0|https://leetcode-cn.com/problems/t9-lcci|
+面试题 16.21|交换和  |中等|0.44|0|https://leetcode-cn.com/problems/sum-swap-lcci|
+面试题 16.22|兰顿蚂蚁  |中等|0.56|0|https://leetcode-cn.com/problems/langtons-ant-lcci|
+面试题 16.24|数对和  |中等|0.46|0|https://leetcode-cn.com/problems/pairs-with-sum-lcci|
+面试题 16.25|LRU缓存  |中等|0.55|0|https://leetcode-cn.com/problems/lru-cache-lcci|
+面试题 16.26|计算器  |中等|0.37|0|https://leetcode-cn.com/problems/calculator-lcci|
+面试题 17.01|不用加号的加法  |简单|0.53|0|https://leetcode-cn.com/problems/add-without-plus-lcci|
+面试题 17.04|消失的数字  |简单|0.64|0|https://leetcode-cn.com/problems/missing-number-lcci|
+面试题 17.05|字母与数字  |中等|0.37|0|https://leetcode-cn.com/problems/find-longest-subarray-lcci|
+面试题 17.06|2出现的次数  |中等|0.40|0|https://leetcode-cn.com/problems/number-of-2s-in-range-lcci|
+面试题 17.07|婴儿名字  |中等|0.38|0|https://leetcode-cn.com/problems/baby-names-lcci|
+面试题 17.08|马戏团人塔  |中等|0.23|0|https://leetcode-cn.com/problems/circus-tower-lcci|
+面试题 17.09|第 k 个数  |中等|0.53|0|https://leetcode-cn.com/problems/get-kth-magic-number-lcci|
+面试题 17.10|主要元素  |简单|0.63|0|https://leetcode-cn.com/problems/find-majority-element-lcci|
+面试题 17.11|单词距离  |中等|0.67|0|https://leetcode-cn.com/problems/find-closest-lcci|
+面试题 17.12|BiNode  |简单|0.59|0|https://leetcode-cn.com/problems/binode-lcci|
+面试题 17.13|恢复空格  |中等|0.51|0|https://leetcode-cn.com/problems/re-space-lcci|
+面试题 17.14|最小K个数  |中等|0.55|0|https://leetcode-cn.com/problems/smallest-k-lcci|
+面试题 17.15|最长单词  |中等|0.36|0|https://leetcode-cn.com/problems/longest-word-lcci|
+面试题 17.16|按摩师  |简单|0.53|0|https://leetcode-cn.com/problems/the-masseuse-lcci|
+面试题 17.17|多次搜索  |中等|0.42|0|https://leetcode-cn.com/problems/multi-search-lcci|
+面试题 17.18|最短超串  |中等|0.43|0|https://leetcode-cn.com/problems/shortest-supersequence-lcci|
+面试题 17.19|消失的两个数字  |困难|0.55|0|https://leetcode-cn.com/problems/missing-two-lcci|
+面试题 17.20|连续中值  |困难|0.54|0|https://leetcode-cn.com/problems/continuous-median-lcci|
+面试题 17.21|直方图的水量  |困难|0.64|0|https://leetcode-cn.com/problems/volume-of-histogram-lcci|
+面试题 17.22|单词转换  |中等|0.32|0|https://leetcode-cn.com/problems/word-transformer-lcci|
+面试题 17.23|最大黑方阵  |中等|0.34|0|https://leetcode-cn.com/problems/max-black-square-lcci|
+面试题 17.24|最大子矩阵  |困难|0.50|0|https://leetcode-cn.com/problems/max-submatrix-lcci|
+面试题 17.25|单词矩阵  |困难|0.43|0|https://leetcode-cn.com/problems/word-rectangle-lcci|
+面试题 17.26|稀疏相似度  |困难|0.31|0|https://leetcode-cn.com/problems/sparse-similarity-lcci|
 
 ## Announcement
 
