@@ -35,7 +35,7 @@
 ps：(推荐Chrome扩展程序：Open Multiple URLs -可批量打开URLs,记得勾选Don't load tabs until selected,避免给服务器造成压力，推荐一次加载20-50页)
 
 #|	标题|	难度|	Acceptance|	中文网址|	会员|	通过|	提交
-------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------| 	------------
+------------|	------------|	------------|	------------|	------------|	------------|	 ------------| 	 ------------
 1	|两数之和    	|简单	|0.442	|https://leetcode-cn.com/problems/two-sum	| 	|1839799	|4160810
 2	|两数相加    	|中等	|0.312	|https://leetcode-cn.com/problems/add-two-numbers	| 	|889091	|2851363
 3	|无重复字符的最长子串    	|中等	|0.284	|https://leetcode-cn.com/problems/longest-substring-without-repeating-characters	| 	|944953	|3324704
